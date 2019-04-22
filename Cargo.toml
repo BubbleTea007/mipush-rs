@@ -3,6 +3,9 @@ name = "mipush_rs"
 version = "0.1.0"
 authors = ["coldpants"]
 description = "mipush server sdk for rust"
+repository = "https://github.com/coldpants/mipush-rs"
+readme = "README.md"
+license = "BSD-3-Clause"
 edition = "2018"
 
 [dependencies]
