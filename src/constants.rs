@@ -1,5 +1,5 @@
 pub const API_ADDRESS: &str = "https://api.xmpush.xiaomi.com";
-pub const API_ADDRESS_GLOBAL: &str = "https://api.global.xmpush.xiaomi.com";
+pub const API_ADDRESS_GLOBAL: &str = "https://api.xmpush.global.xiaomi.com";
 
 #[allow(dead_code)]
 pub const V2_MESSAGE_REGID: &str = "/v2/message/regid";

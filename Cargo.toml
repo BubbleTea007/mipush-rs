@@ -1,6 +1,6 @@
 [package]
 name = "mipush_rs"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["coldpants"]
 description = "mipush server sdk for rust"
 repository = "https://github.com/coldpants/mipush-rs"

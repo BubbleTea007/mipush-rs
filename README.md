@@ -35,7 +35,6 @@ fn test() {
         .extra("sound_uri", "value")
         .extra("intent_uri", "value")
         .extra("web_uri", "value")
-        .extra("sound_uri", "value")
         .build();
     let result = sender.send_to_alias(_msg, vec!["aaa"]);
     println!("result=====>{}", result);
